@@ -91,6 +91,7 @@ header {
 }
 
 p {
+    margin-top: 20px;
     margin-bottom: 30px;
     font-size: 40px;
     color: #ffffff;
@@ -126,7 +127,7 @@ p {
 }
 
 .sau {
-    margin-top: 350px;
+    margin-top: 50px;
     padding: 250px;
     background: #3aa5bd;
 }
@@ -175,7 +176,8 @@ p {
 }
 
 .contact {
-    padding-top: -50px;
+    margin-top: 70px;
+    padding-top: -20px;
     background: #077bc9;
     padding-bottom: 0;
 }
